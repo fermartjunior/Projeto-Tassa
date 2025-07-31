@@ -84,8 +84,6 @@ main {
   font-size: 20px;
 }
 
-
-.nossos-serv h2,
 .sobre h2 {
   font-size: 2rem;
   margin-bottom: 20px;
@@ -140,6 +138,7 @@ main {
 .servico p {
   color: white;
   line-height: 1.6;
+  font-size: 18px;
 }
 
 .sobre {
@@ -329,7 +328,7 @@ footer {
   }
 
   .servico p {
-    font-size: 14px;
+    font-size: 18px;
   }
 
   .sobre {
