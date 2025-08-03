@@ -99,7 +99,7 @@ main {
   list-style: none;
 }
 
-.servicos-container {
+.planos-container {
   max-width: 1000px;
   margin: 0 auto 60px;
   border-radius: 12px;
@@ -108,14 +108,14 @@ main {
 
 }
 
-.servicos-container h2 {
+.planos-container h2 {
   text-align: center;
   color: #40A2D8;
   margin-bottom: 30px;
   font-size: 2em;
 }
 
-.servico {
+.plano {
   background-color: black;
   border-left: 6px solid #40A2D8;
   padding: 20px;
@@ -126,16 +126,16 @@ main {
   transition: transform 0.2s ease;
 }
 
-.servico:hover {
+.plano:hover {
   transform: scale(1.01);
 }
 
-.servico h3 {
+.plano h3 {
   margin-bottom: 10px;
   color: #40A2D8;
 }
 
-.servico p {
+.plano p {
   color: white;
   line-height: 1.6;
   font-size: 18px;
@@ -216,7 +216,7 @@ footer {
   }
 
   .whatsapp-button {
-    width: 100%;
+    width: 300px;
   }
 }
 
@@ -238,11 +238,11 @@ footer {
     font-size: 18px;
   }
 
-  .servicos-container {
+  .planos-container {
     padding: 20px 10px;
   }
 
-  .servico {
+  .plano {
     padding: 15px;
   }
 
@@ -264,7 +264,7 @@ footer {
   }
 
   .whatsapp-button {
-    width: 100%;
+    width: 300px;
   }
 
   .whatsapp-button {
@@ -302,7 +302,7 @@ footer {
 
   nav ul {
     flex-direction: column;
-    background-color: #0B60B0;
+    background-color: #0b60b08a;
     text-align: center;
     padding: 10px 0;
   }
@@ -323,11 +323,11 @@ footer {
     font-size: 16px;
   }
 
-  .servico h3 {
+  .plano h3 {
     font-size: 18px;
   }
 
-  .servico p {
+  .plano p {
     font-size: 18px;
   }
 
