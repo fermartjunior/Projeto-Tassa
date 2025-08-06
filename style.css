@@ -165,10 +165,10 @@ main {
   align-items: center;
   background-color: #25D366;
   color: white;
-  padding: 10px;
+  padding: 8px;
   border-radius: 20px;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 18px;
   margin-top: 20px;
   margin-bottom: 60px;
   transition: background-color 0.3s ease;
@@ -217,7 +217,9 @@ footer {
   }
 
   .whatsapp-button {
-    width: 300px;
+    width: 240px;
+    font-size: 18px;
+    padding: 8px;
   }
 }
 
@@ -265,11 +267,9 @@ footer {
   }
 
   .whatsapp-button {
-    width: 300px;
-  }
-
-  .whatsapp-button {
-    font-size: 13px;
+    width: 240px;
+    font-size: 18px;
+    padding: 8px;
   }
 
   footer {
@@ -337,7 +337,8 @@ footer {
   }
 
   .whatsapp-button {
-    font-size: 12px;
+    width: 200px;
+    font-size: 18px;
     padding: 8px;
   }
 
