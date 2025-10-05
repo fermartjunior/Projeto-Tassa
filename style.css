@@ -287,9 +287,9 @@ footer {
   cursor: pointer;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 768px) { 
   .hamburguer {
-    display: block;
+    display: block
   }
 
   .menu {
@@ -324,6 +324,10 @@ footer {
     font-size: 16px;
   }
 
+  .planos-container {
+    margin-top: 80px;
+  }
+
   .plano h3 {
     font-size: 18px;
   }
@@ -333,13 +337,14 @@ footer {
   }
 
   .sobre {
-    margin: 0 10px;
+    margin: 80px 10px;
   }
 
   .whatsapp-button {
     width: 200px;
     font-size: 18px;
     padding: 8px;
+    margin-bottom: 80px;
   }
 
   footer {
